@@ -1,6 +1,6 @@
 As a DevOps engineer with hands-on experience, I bring a proven track record of streamlining development processes, implementing automation solutions, and optimizing system performance. Adept at leveraging cutting-edge tools and technologies, I am dedicated to fostering collaboration between development and operations teams to drive efficiency, scalability, and continuous improvement in software delivery pipelines.
 
-Key Skills:-
+*Key Skills*:-
 Versioning Tool: GIT
 CI Tool: Jenkins
 Build Tools: Maven
